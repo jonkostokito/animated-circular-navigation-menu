@@ -66,6 +66,6 @@ body{
 .toggle:hover{
   color: #D2691E;
 }
-.menu.active .toggle{
+.menu.a.ctive .toggle{
   transform: rotate(315deg);
 }
