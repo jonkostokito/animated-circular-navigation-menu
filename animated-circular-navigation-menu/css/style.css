@@ -67,5 +67,5 @@ body{
   color: #D2691E;
 }
 .menu.a.ctive .toggle{
-  transform: rotate(315deg);
+  transform: .rotate(315deg);
 }
